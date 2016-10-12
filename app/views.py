@@ -5,5 +5,5 @@ from flask import Flask
 @app.route('/')
 @app.route('/home')
 def home():
-    return '<h1> New SM created </h1><h2>Working fine now </h2>'
+    return '<h1> Hey Shravan...!!!</h1><h2>Working fine now </h2>'
 
